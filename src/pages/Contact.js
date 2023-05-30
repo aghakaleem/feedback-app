@@ -5,9 +5,9 @@ export default function Contact() {
       <h1>Contact Page</h1>
       <br />
 
-      <Link to='/'>Home</Link>
+      <Link to='/'>Go to Home</Link>
       <br />
-      <Link to='/about'>About</Link>
+      <Link to='/about'>Go to About</Link>
     </>
   )
 }

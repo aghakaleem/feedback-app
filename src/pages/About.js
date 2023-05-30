@@ -5,9 +5,9 @@ export default function About() {
       <h1>About Page</h1>
       <br />
 
-      <Link to='/'>Home</Link>
+      <Link to='/'>Go to Home</Link>
       <br />
-      <Link to='/contact'>Contact</Link>
+      <Link to='/contact'>Go to Contact</Link>
     </>
   )
 }
